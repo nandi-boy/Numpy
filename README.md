@@ -36,7 +36,7 @@ This notebook is part of my personal learning journey in Python and data science
 
 # 🛠 Requirements
 
-- Python 3.x
+- Python
 - NumPy
 - Jupyter Notebook or Google Colab
 
