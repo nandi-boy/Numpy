@@ -24,8 +24,8 @@ Each section includes both code and output to help reinforce learning.
 ---
 
 # Install required packages
--pip install numpy 
--pip install jupyter
+- pip install numpy 
+- pip install jupyter
 
 ---
 
@@ -42,5 +42,5 @@ This notebook is part of my personal learning journey in Python and data science
 
 ----
 
-🙋‍♂️ Author
+# 🙋‍♂️ Author
   - Ayan Nandi
