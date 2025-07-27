@@ -40,5 +40,7 @@ This notebook is part of my personal learning journey in Python and data science
 -NumPy
 -Jupyter Notebook or Google Colab
 
+----
+
 🙋‍♂️ Author
   - Ayan Nandi
